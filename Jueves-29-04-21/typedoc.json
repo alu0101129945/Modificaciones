@@ -1,6 +1,6 @@
 {
   "entryPoints": [
-    "./src/modification.ts"
+    "./src/prueba.ts"
   ],
   "out": "./typeDocs"
 }
